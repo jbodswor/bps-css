@@ -1,0 +1,14 @@
+/*
+ *  - BPS logo for Openshift console
+ *   - Change master-config.yaml
+ *    assetConfig:
+ *      ...
+ *        extensionStylesheets:
+ *            - /etc/origin/master/css/logo.css
+ *            */
+
+ #header-logo {
+    background-image: url("https://cdn2.hubspot.net/hubfs/430417/Images/public/logo-BPS.svg");
+    width: 400px;
+    height: 40px;
+  }
