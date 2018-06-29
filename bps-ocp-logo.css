@@ -5,6 +5,7 @@
  *      ...
  *        extensionStylesheets:
  *            - /etc/origin/master/css/logo.css
+ * Content-Type: text/css
  *            */
 
  #header-logo {
